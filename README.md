@@ -1,0 +1,2 @@
+# clon-de-vcpkg
+vcpkg
